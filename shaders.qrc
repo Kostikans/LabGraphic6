@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sphere.frag</file>
+        <file>sphere.vert</file>
+        <file>grid.frag</file>
+        <file>grid.vert</file>
+    </qresource>
+</RCC>
